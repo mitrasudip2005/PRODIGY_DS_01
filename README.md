@@ -1,4 +1,9 @@
-# Prodigy InfoTech Data Science Task 01
+# Prodigy InfoTech Data Science Internship — Task 01
+
+**Submitted by:** Sudip Mitra  
+**Track:** Data Science  
+**Task:** 01 — Population Data Visualization
+
 
 ## Population Data Visualization
 
@@ -549,8 +554,3 @@ a bar chart for the ten largest population entries.
 
 The workflow can be reused with other datasets by changing the input
 file and selecting the appropriate columns.
-
-## Author
-
-### Soumyajit Karmakar B.Tech CSE (AI & ML)       
-Created as part of the Prodigy InfoTech Data Science Internship.

@@ -1,0 +1,11 @@
+Prodigy InfoTech Data Science Internship — Task 01
+Submitted by: Sudip Mitra
+
+Dataset: World Development Indicators — Population, total (SP.POP.TOTL)
+Focus year: 2024
+Source:
+https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201
+
+Note: The original Task 1 notebook expects the dataset filename 'data.csv'.
+The original dataset file was not available in the current workspace, so it is
+not fabricated or replaced here.
